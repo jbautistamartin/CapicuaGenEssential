@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    CapicuaGenEssential (0.0.3)
+    CapicuaGenEssential (0.0.4)
       CapicuaGen (~> 0.0, >= 0.0.1)
       CapicuaGenBalthazar (~> 0.0, >= 0.0.1)
       CapicuaGenGaspar (~> 0.0, >= 0.0.1)
@@ -10,17 +10,17 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    CapicuaGen (0.0.2)
+    CapicuaGen (0.0.3)
       activesupport (~> 2.3, >= 2.3.18)
       nokogiri (~> 1.6, >= 1.6.7)
       uuidtools (~> 2.1, >= 2.1.5)
-    CapicuaGenBalthazar (0.0.2)
+    CapicuaGenBalthazar (0.0.3)
       CapicuaGen (~> 0.0, >= 0.0.1)
       CapicuaGenMelchior (~> 0.0, >= 0.0.1)
-    CapicuaGenGaspar (0.0.2)
+    CapicuaGenGaspar (0.0.3)
       CapicuaGen (~> 0.0, >= 0.0.1)
       CapicuaGenMelchior (~> 0.0, >= 0.0.1)
-    CapicuaGenMelchior (0.0.2)
+    CapicuaGenMelchior (0.0.3)
       CapicuaGen (~> 0.0, >= 0.0.1)
     activesupport (2.3.18)
     mini_portile2 (2.0.0)
